@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PostsTags.API/PostsTags.API.csproj" />
+  <Project Path="PostsTags.Core/PostsTags.Core.csproj" />
+  <Project Path="PostsTags.Infrastructure/PostsTags.Infrastructure.csproj" />
+</Solution>
